@@ -7,8 +7,9 @@ Also, in the meantime I participated and won a Hackathon. Thanks to my classmate
 I love exploring what a dataset wants to say through the Python and R language. I love exploring questions that business organizations are interested in for optimizing their profits.
 
 # Key skills : 
+* Deep Learning
+* Machine Learning Algorithms (Supervised & Unsupervised)
 * Statistical Analysis and Hypothesis Testing
-* Machine Learning Algorithms (Supervised & Unsupervised) 
 * Data Interpretation and Storytelling
 * Time Series Analysis and Forecasting
 * Natural Language Processing (NLP) 
